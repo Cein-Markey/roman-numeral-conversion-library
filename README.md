@@ -9,6 +9,7 @@ npm i roman-numeral-converter-mmxvi
 
 ##Methods
 `romanNumeralConverter.getRomanFromInteger(10);`
+
 `romanNumeralConverter.getIntegerFromRoman('M');`
 
 License
