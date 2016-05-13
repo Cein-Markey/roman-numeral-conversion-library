@@ -2,7 +2,7 @@
 A node module for converting roman numerals to integers and vice versa
 
 ##Install
-npm i roman-numeral-converter-mmxvi
+`npm i roman-numeral-converter-mmxvi`
 
 ##Use
 `let romanNumeralConverter = require('roman-numeral-converter-mmxvi');`
