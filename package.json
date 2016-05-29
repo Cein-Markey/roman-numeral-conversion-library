@@ -1,6 +1,6 @@
 {
   "name": "roman-numeral-converter-mmxvi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A node module for converting roman numerals to integers and vice versa",
   "main": "index.js",
   "repository": {
@@ -16,7 +16,8 @@
     "numeral",
     "utility",
     "tool",
-    "converter"
+    "converter",
+    "roman-numerals"
   ],
   "author": "Cein Markey <hi@ceinmarkey.co.uk> (http://cein.irish)",
   "license": "ISC",
