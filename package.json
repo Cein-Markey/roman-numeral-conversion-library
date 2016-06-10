@@ -1,6 +1,6 @@
 {
   "name": "roman-numeral-converter-mmxvi",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A node module for converting roman numerals to integers and vice versa",
   "main": "index.js",
   "repository": {
